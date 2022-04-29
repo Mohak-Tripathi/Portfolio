@@ -95,6 +95,7 @@ const TechStacks = () => {
 					<i className='devicon-express-original' />
 					<span>Express</span>
 				</div>
+
 				<div
 					style={{
 						color: `${newTheme.title}`,
@@ -105,6 +106,42 @@ const TechStacks = () => {
 					<i className='devicon-mongodb-plain colored' />
 					<span>MongoDB</span>
 				</div>
+
+
+
+				<div
+					style={{
+						color: `${newTheme.title}`,
+						background: `${newTheme.linkHover}`,
+					}}
+					className={styles.logoWrapper}
+				>
+					<i className='devicon-heroku-plain colored' />
+					<span>Heroku</span>
+				</div>
+
+				<div
+					style={{
+						color: `${newTheme.title}`,
+						background: `${newTheme.linkHover}`,
+					}}
+					className={styles.logoWrapper}
+				>
+					<i className='devicon-github-plain colored' />
+					<span>Github</span>
+				</div>
+
+				<div
+					style={{
+						color: `${newTheme.title}`,
+						background: `${newTheme.linkHover}`,
+					}}
+					className={styles.logoWrapper}
+				>
+					<i className='devicon-git-plain colored' />
+					<span>Github</span>
+				</div>
+
 			</div>
 		</div>
 	);

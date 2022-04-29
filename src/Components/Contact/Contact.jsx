@@ -57,6 +57,20 @@ const Contact = () => {
 					</a>
 
 					<a
+						href='https://medium.com/@mohaktripathi029'
+						aria-label='GitHub'
+						rel='noreferrer'
+						target='_blank'
+					>
+						<i className='fab fa-medium' />
+					</a>
+
+
+
+
+
+
+					<a
 						href='https://www.linkedin.com/in/mohak-tripathi/'
 						aria-label='Linkedin'
 						target='_blank'
