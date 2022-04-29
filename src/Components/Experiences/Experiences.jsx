@@ -26,10 +26,11 @@ const Experiences = () => {
 					</legend>
 					<ul>
 						<li>
-							My role was related to research and field work.My aim was to provide legal aid to the marginalized and downtrodden section of the society .  
+						My role was related to research and fieldwork. My task was to provide legal aid to the marginalized and downtrodden sections of society and make them aware of their basic rights.
+
 						</li>
 						<li>
-						This internship helped me to understand India from grassroot level.
+						This internship helped me to understand India from the grassroots level.
 						</li>
 					
 					</ul>

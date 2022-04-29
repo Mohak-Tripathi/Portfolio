@@ -54,7 +54,9 @@ const Navbar = () => {
 			}}
 		> 
 			<div className={styles.navbar}> 
-				<a href='https://nitesh-goshwami.netlify.app/'> 
+				<a href='https://mohaktripathi.vercel.app/'> 
+				
+				{/* deployed link */}
 					<div className={styles.logo}>
 						<img
 							src='https://cdn.vectorstock.com/i/1000x1000/68/25/letter-m-logo-design-template-elements-vector-18886825.webp'

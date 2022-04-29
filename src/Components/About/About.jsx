@@ -30,10 +30,12 @@ const About = () => {
 					style={{ color: `${newTheme.para}` }}
 					className={styles.aboutMe}
 				>
-					Hi Everyone! I am Mohak Tripathi. I always believe that direction is far more important than speed. Keeping that in mind and understanding my inner self and where the world is heading, I decided to take pivot in my career to become software developer. <br/>  I love to be involved with technology and I like to build web applications<br/> .
-					<br/> Fast Forwarding to today, I built a number of web
-					applications using MERN stack and develped key projects in it. I also learned a great deal
-					about teamwork, leadership, empathy, compassion and communication. After months
+
+					Hi Everyone! I am Mohak Tripathi. I always believe that direction is far more important than speed. Keeping that in mind and understanding my inner self and where the world is heading, I decided to make a pivot in my career to become a software developer. <br />
+					I love to be involved with technology and I have a desire to build web applications that can impact millions of life positively.  	 <br />
+					.
+					At Masai School in the last 7 months, I built a number of web applications using the MERN stack and developed key projects in it. I have also inculcated the skills like teamwork, leadership, empathy, compassion, and communication. 
+					After months
 					of rigorous training, here I am
 					<span style={{ color: `#00a0a0` }}>
 						{' '}

@@ -2,7 +2,7 @@ export const projects = [
 	{
 		img: 'https://iili.io/VQXXQj.png',
 		title: 'Coursera clone',
-		des: 'This is a clone of one of the largest ed tech website in the world build with HTML,CSS,JS,Express,Node.js and mongo DB. Have features which allows user live search',
+		des: 'Coursera is a global online learning platform that offers anyone, anywhere, access to online courses and degrees from leading universities and companies. We build a clone of their store website with the help of HTML, CSS, JS, Express, Node.js and mongo DB. Have features which allows user live search',
 		demo: '',
 		live: 'https://clonecoursera.netlify.app/', 
 		gitHub: 'https://github.com/GrazewalSingh07/Coursera_Backend',
