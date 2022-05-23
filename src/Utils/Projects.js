@@ -19,12 +19,12 @@ export const projects = [
 	},
 	{
 		img: 'https://iili.io/VQV6Na.png',
-		title: 'BobbiBrown Clone',
-		des: 'It is an online e-commerce beauty cosmetic website which particularly cater the needs to women. .',
+		title: 'Todo Application',
+		des: 'This is a small Todo Application built with React fronted technology. User can use simple Todo Application. For rendering a default data, I have used Local Storage. I have added Pagination feature as well. In this project, I have added complete and clear function through which User can crosses out completed Todo or delete it completely.',
 		// demo: 'https://bobbi-brown-project-8xs15wibv-mohak-tripathi.vercel.app/',
-		live: 'https://bobbi-brown-project-8xs15wibv-mohak-tripathi.vercel.app/',
-		gitHub: 'https://github.com/Mohak-Tripathi/Fw15-Bobbi-Brown--Project',
-		technologies: ['HTML', 'CSS', 'javaScript'],
+		live: 'https://todo-app-react-azure.vercel.app/',
+		gitHub: 'https://github.com/Mohak-Tripathi/Todo-Application',
+		technologies: ['React', 'HTML', 'CSS' ,'javaScript'],
 	},
 
 	
