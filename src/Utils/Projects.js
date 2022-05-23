@@ -17,6 +17,15 @@ export const projects = [
 		gitHub: 'https://github.com/Mohak-Tripathi/Fw15-Bobbi-Brown--Project',
 		technologies: ['HTML', 'CSS', 'javaScript'],
 	},
+	{
+		img: 'https://iili.io/VQV6Na.png',
+		title: 'BobbiBrown Clone',
+		des: 'It is an online e-commerce beauty cosmetic website which particularly cater the needs to women. .',
+		// demo: 'https://bobbi-brown-project-8xs15wibv-mohak-tripathi.vercel.app/',
+		live: 'https://bobbi-brown-project-8xs15wibv-mohak-tripathi.vercel.app/',
+		gitHub: 'https://github.com/Mohak-Tripathi/Fw15-Bobbi-Brown--Project',
+		technologies: ['HTML', 'CSS', 'javaScript'],
+	},
 
 	
 	// {
