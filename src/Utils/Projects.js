@@ -18,7 +18,7 @@ export const projects = [
 		technologies: ['HTML', 'CSS', 'javaScript'],
 	},
 	{
-		img: 'https://www.flickr.com/photos/195713921@N06/52093819856/in/dateposted-public/',
+		img: 'https://live.staticflickr.com/65535/52093819856_285ba89211_h.jpg',
 		title: 'Todo Application',
 		des: 'This is a small Todo Application built with React fronted technology. User can use simple Todo Application. For rendering a default data, I have used Local Storage. I have added Pagination feature as well. In this project, I have added complete and clear function through which User can crosses out completed Todo or delete it completely.',
 		// demo: 'https://bobbi-brown-project-8xs15wibv-mohak-tripathi.vercel.app/',
