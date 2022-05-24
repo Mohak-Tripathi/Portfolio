@@ -26,6 +26,15 @@ export const projects = [
 		gitHub: 'https://github.com/Mohak-Tripathi/Todo-Application',
 		technologies: ['React', 'HTML', 'CSS' ,'javaScript'],
 	},
+	{
+		img: 'https://live.staticflickr.com/65535/52096510444_bd91968d99_h.jpg',
+		title: 'Zara Clone',
+		des: 'ZARA Fashion is one of the e-commerce websites working in India. Launched in Galicia, Spain in 1975. ZARA slowly expanded its empire in the rest of the country and later in Portugal in 1988 and the year after that- in 1989 ZARA made it to the United States of America.',
+		// demo: 'https://bobbi-brown-project-8xs15wibv-mohak-tripathi.vercel.app/',
+		live: 'https://zara-clone-lime.vercel.app/',
+		gitHub: 'https://github.com/Mohak-Tripathi/zara-clone',
+		technologies: ['React', 'Nodejs','MongDB', 'Express', 'HTML', 'CSS' ,'javaScript'],
+	},
 
 	
 	// {
