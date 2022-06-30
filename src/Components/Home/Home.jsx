@@ -11,7 +11,7 @@ import About from '../About/About';
 import { projects } from '../../Utils/Projects';
 import Contact from '../Contact/Contact';
 import { ThemeContext } from '../../ContextProvider/ThemeContext';
-import Experiences from '../Experiences/Experiences';
+// import Experiences from '../Experiences/Experiences';
 
 const Home = ({ scrollRef }) => {
 	const [projectArray, setProjectArray] = useState(
@@ -144,7 +144,7 @@ const Home = ({ scrollRef }) => {
 					data-aos-duration='700'
 					style={{ color: `${newTheme.para}` }}
 				>
-					<Experiences />
+					{/* <Experiences /> */}
 				</div>
 			</div>
 

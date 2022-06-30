@@ -1,13 +1,15 @@
 export const projects = [
+	
 	{
-		img: 'https://iili.io/VQXXQj.png',
-		title: 'Coursera clone',
-		des: 'Coursera is a global online learning platform that offers anyone, anywhere, access to online courses and degrees from leading universities and companies. We build a clone of their store website with the help of HTML, CSS, JS, Express, Node.js and mongo DB. Have features which allows user live search',
-		demo: '',
-		live: 'https://clonecoursera.netlify.app/', 
-		gitHub: 'https://github.com/GrazewalSingh07/Coursera_Backend',
-		technologies: ['MongoDB', 'Node Js', 'HTML', 'CSS', 'javaScript'],
+		img: 'https://live.staticflickr.com/65535/52184818255_c55b12ff12_c.jpg',
+		title: 'MYSHOP E-Commerce',
+		des: 'MYSHOP is an E-Commerce website which is the one stop shop for all electronics products. This is an individual project with MERN as a techstack.',
+		// demo: 'https://bobbi-brown-project-8xs15wibv-mohak-tripathi.vercel.app/',
+		live: 'https://e-commerce-project-pied.vercel.app/',
+		gitHub: 'https://github.com/Mohak-Tripathi/MYSHOP-E-Commerce-Project',
+		technologies: ['React', 'Redux', 'Express', 'NodeJS', 'MongoDB'],
 	},
+
 	{
 		img: 'https://iili.io/VQV6Na.png',
 		title: 'BobbiBrown Clone',
@@ -16,6 +18,15 @@ export const projects = [
 		live: 'https://bobbi-brown-project-8xs15wibv-mohak-tripathi.vercel.app/',
 		gitHub: 'https://github.com/Mohak-Tripathi/Fw15-Bobbi-Brown--Project',
 		technologies: ['HTML', 'CSS', 'javaScript'],
+	},
+	{
+		img: 'https://iili.io/VQXXQj.png',
+		title: 'Coursera clone',
+		des: 'Coursera is a global online learning platform that offers anyone, anywhere, access to online courses and degrees from leading universities and companies. We build a clone of their store website with the help of HTML, CSS, JS, Express, Node.js and mongo DB. Have features which allows user live search',
+		demo: '',
+		live: 'https://clonecoursera.netlify.app/', 
+		gitHub: 'https://github.com/GrazewalSingh07/Coursera_Backend',
+		technologies: ['MongoDB', 'Node Js', 'HTML', 'CSS', 'javaScript'],
 	},
 	{
 		img: 'https://live.staticflickr.com/65535/52093819856_285ba89211_h.jpg',
